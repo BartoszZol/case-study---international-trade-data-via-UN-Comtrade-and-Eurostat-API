@@ -63,7 +63,7 @@ misleadingly large percentage swings.
 ├── README.md
 ├── requirements.txt
 ├── .env                              # COMTRADE_KEY — not committed, see .gitignore
-├── 03_trade_data_portfolio.ipynb     # main analysis notebook
+├── trade_data_comtrade_eurostat.ipynb     # main analysis notebook
 └── hs2_*.csv                         # per-partner/flow HS2 checkpoint files (Comtrade)
 ```
 
